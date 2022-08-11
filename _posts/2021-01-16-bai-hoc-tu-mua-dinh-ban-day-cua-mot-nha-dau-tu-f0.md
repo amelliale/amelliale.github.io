@@ -2,6 +2,7 @@
 layout: post
 title: Bài học từ mua đỉnh bán đáy năm 2020 (F0)
 subtitle: Chiến lược đầu tư năm 2021
+tags: [dau tu]
 comments: true
 ---
 
