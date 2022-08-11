@@ -22,7 +22,8 @@ Sau khi đã chuẩn bị đầy đủ thông tin, bạn bắt đầu điền DS
 Kể từ ngày 21/5/2021, chỉ có thể thanh toán phí xin visa bằng thẻ credit card. Tất cả các phương thức khác đều không thanh toán được.   
 Để thanh toán các bạn vào [trang này](https://cgifederal.secure.force.com/?language=English&country=Japan&fbclid=IwAR021o2bZ9jaq0XEZQHohL_XbVCke4S9RZ8__XjGo0hhCux65ja6WRT2o-U).
 Khi mở trang web trên ra bạn sẽ được yêu cầu cần phải đăng nhập. Nếu đây là lần đầu của bạn, bạn sẽ cần phải đăng kí ID. Sau khi đăng kí và bổ sung thông tin chi tiết kèm loại visa bạn muốn xin, bạn sẽ có thể đặt lịch và thanh toán chi phí. Họ sẽ hỏi bạn có muốn gửi đảm bảo về tận nhà không hay muốn lên tận nơi nhận, nếu gửi đảm bảo về tận nhà thì tốn thêm khoảng 2860 Yên. Nếu lên nhận thì họ gửi địa chỉ riêng bạn có thể lên nhận trong giờ hành chính. Sau đó là thanh toán phí xin visa 18400 yên theo tỉ giá hiện hành (Tháng 10/2021). Các bạn chỉ thanh toán 1 lần thôi nhé. Ngay lập tức sau khi thanh toán các bạn có thể chọn ngày phỏng vấn. 
-##### Lưu ý: Các bạn có thể thay đổi ngày phỏng vấn tối đa 2 lần cho đến 2 ngày trước ngày phỏng vấn đã định.
+##### Lưu ý:   
+Các bạn có thể thay đổi ngày phỏng vấn tối đa 2 lần cho đến 2 ngày trước ngày phỏng vấn đã định.
 
 <h2 align="center"> Về việc chuẩn bị hồ sơ bổ sung </h2>
 Trên web lãnh sự quán ghi rất chung chung, nhưng cá nhân mình sợ thiếu nên chuẩn bị rất kỹ. Vì profile của mình là sinh viên, và mục đích chuyến đi của mình là thăm người yêu, nên hồ sơ mình chuẩn bị kèm chủ yếu là:
