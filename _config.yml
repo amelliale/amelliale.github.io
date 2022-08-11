@@ -13,7 +13,7 @@
 title: Amellia Le Website
 
 # Your name to show in the footer
-author: Some Person
+author: Le/Thuy
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,10 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Sleep: "https://www.psychologytoday.com/us/blog/the-beginning-the-end/202208/counterintuitive-trick-help-you-fall-asleep-fast"
+    - Facebook group ve dau tu: "https://www.facebook.com/groups/CoVanTaichinhVietnam"
+    - Website dau tu cho nguoi moi: "https://leox.vn/cong-dong"
+  Author's home: "https://fb.com/thanhthuy.psy20"
 
 ################
 # --- Logo --- #
