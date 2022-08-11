@@ -31,7 +31,15 @@ Trong tuần đầu tiên, tôi mua cổ phiếu đầu tiên là BMP vì đọc
 
 Quá đắc ý, tôi gia tăng khối lượng giao dịch. Tôi đã chọn DXG vì nghĩ rằng quý III và IV của ngành bất động sản thường thu được lợi nhuận cao. Tôi hái quả đắng ngay vì đu đỉnh ở giá 11.000 đồng/cổ phiếu và bán đáy giá 9.000 đồng/cổ phiếu (tuân thủ nguyên tắc cắt lỗ 7%), trong khi cổ phiếu này có giá 18.000 đồng/cổ phiếu ngay trước phiên giảm lịch sử ngày 19/1. Trải nghiệm với cổ phiếu này cho đủ cảm giác đau và tiếc, như là "yêu nhầm cách".
 
-Tôi nhận ra mình đã sai khi không quan tâm đến dòng tiền, không lựa chọn được điểm mua vào an toàn hơn. Tôi dành thời gian để đọc sách nhiều hơn trong 4 tháng sau đó, trang bị các kỹ năng đọc báo cáo tài chính, hiểu các chỉ số tài chính của doanh nghiệp, đọc chart, đánh giá dòng tiền.
+Tôi nhận ra mình đã sai khi không quan tâm đến dòng tiền, không lựa chọn được điểm mua vào an toàn hơn. Tôi dành thời gian để đọc sách nhiều hơn trong 4 tháng sau đó, trang bị các kỹ năng đọc báo cáo tài chính, hiểu các chỉ số tài chính của doanh nghiệp, đọc chart, đánh giá dòng tiền. Các sách tôi đã lựa chọn và đọc qua đó là 
+1. _24 Essential Lessons for Investment Success_ của William J. O Niel
+2. _Beyond Candlestick_ của Steve Nison
+3. _Trend Following_ của Michael W. Covel
+4. _How to make money in stock_ của Matthew Galgani và William J.O Niel
+5. _Trade like an O Niel Disciple_ của Gil Morales và Dr. Chris Kacher
+6. _How to Day Trade for a Living_ của Andrew Aziz
+7. _Warren Buffet and the Interpretation of Financial Statements_ của Mary Buffet và David Clark
+8. _Encyclopedia of Chart  Pattern_ của Thomas N. Bulkowski
 
 Khi học hết, tôi đã làm liều, rút tiền tiết kiệm với lãi suất 8% từ năm 2019 (lẽ ra gửi đến tháng 11 năm 2021), áp dụng hết kiến thức và đầu tư với chiến thuật cụ thể. Kết quả, tôi lãi 80% trong vòng 7 tháng đầu tư tại thị trường Việt Nam.
 
