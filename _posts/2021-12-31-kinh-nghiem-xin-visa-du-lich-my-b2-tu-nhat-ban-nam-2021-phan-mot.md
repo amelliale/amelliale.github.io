@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kinh nghiệm xin visa du lịch mỹ b2 từ nhật bản năm 2021 (Phần 1)
+title: Kinh nghiệm xin visa du lịch mỹ B2 từ nhật bản năm 2021 (Phần 1)
 subtitle: Quá trình chuẩn bị hồ sơ
 tags: [visa my]
 comments: true
