@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Amellia Le Website
+title: Amellia Le Blog
 
 # Your name to show in the footer
 author: Le/Thuy
@@ -21,7 +21,7 @@ author: Le/Thuy
 
 navbar-links:
   About Me: "aboutme"
-  Table of Contents: "contents"
+  Contents: "contents"
   Resources:
     - Sleep: "https://www.psychologytoday.com/us/blog/the-beginning-the-end/202208/counterintuitive-trick-help-you-fall-asleep-fast"
     - Facebook group ve dau tu: "https://www.facebook.com/groups/CoVanTaichinhVietnam"
