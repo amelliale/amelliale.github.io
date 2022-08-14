@@ -3,13 +3,9 @@ title: About me
 subtitle: Thuy is in Tokyo
 ---
 
-My name is Thuy. I have the following qualities:
+Mình là Thủy, mình hiện đang sinh sống tại Tokyo, Nhật Bản. Mình tốt nghiệp đại học ngành tâm lý học tại Việt Nam và chuyển ngành khi sang Nhật năm 2019. Năm 2020, mình bắt đầu đầu tư chứng khoán tại thị trường Việt Nam và Mỹ. 
 
-- I speak Vietnamese, English and Japanese
-- I'm an introvert and an INTJ girl, which means that: I prefer to be alone most of the time but I like being near the people who I hold dear.
+### About this blog
 
-What else do you need?
+Mình là một INTJ, hướng nội và thích tìm tòi, khám phá, thiên lý trí. Mình rất thích khoa học và giải quyết những vấn đề phức tạp. Blog này sẽ là nơi mình chia sẻ kinh nghiệm sống, đầu tư, và một số kinh nghiệm khác. Mình thường xuyên đi Mỹ thăm bạn trai nên cũng có thể chia sẻ, hỗ trợ một số thông tin về visa và kinh nghiệm xuất/nhập cảnh nước Mỹ. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just check out [my Facebook timeline](https://fb.com/thanhthuy.psy20) and it will answer **all** your questions.
