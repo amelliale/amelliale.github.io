@@ -1,11 +1,19 @@
 ---
 title: Table of contents
-subtitle: Sample
+subtitle: Từ năm 2021
 ---
 
-Mình là Thủy, mình hiện đang sinh sống tại Tokyo, Nhật Bản. Mình tốt nghiệp đại học ngành tâm lý học tại Việt Nam và chuyển ngành khi sang Nhật năm 2019. Năm 2020, mình bắt đầu đầu tư chứng khoán tại thị trường Việt Nam và Mỹ. 
+<h2 align="center">2022</h2>
 
-### About this blog
+### Jan
+* [Kinh nghiệm xin visa du lịch mỹ B2 từ nhật bản năm 2021 (Phần 2)](https://amelliale.github.io/2022-01-30-kinh-nghiem-xin-visa-du-lich-my-b2-tu-nhat-ban-nam-2021-phan-2/)
 
-Mình là một INTJ, hướng nội và thích tìm tòi, khám phá, thiên lý trí. Mình rất thích khoa học và giải quyết những vấn đề phức tạp. Blog này sẽ là nơi mình chia sẻ kinh nghiệm sống, đầu tư, và một số kinh nghiệm khác. Mình thường xuyên đi Mỹ thăm bạn trai nên cũng có thể chia sẻ, hỗ trợ một số thông tin về visa và kinh nghiệm xuất/nhập cảnh nước Mỹ. 
+<h2 align="center">2021</h2>
+
+### Dec
+* [Kinh nghiệm xin visa du lịch mỹ B2 từ nhật bản năm 2021 (Phần 1)](https://amelliale.github.io/2021-12-31-kinh-nghiem-xin-visa-du-lich-my-b2-tu-nhat-ban-nam-2021-phan-mot/)
+
+### Jan
+* [Bài học từ mua đỉnh bán đáy năm 2020 (F0)](https://amelliale.github.io/2021-01-16-bai-hoc-tu-mua-dinh-ban-day-cua-mot-nha-dau-tu-f0/)
+* [Bài học về quản trị rủi ro của một F0 chưa tròn 1 năm tuổi](https://amelliale.github.io/2021-01-23-Bai-hoc-ve-quan-tri-rui-ro-cua-mot-F0-chua-tron-mot-nam-tuoi/)
 
