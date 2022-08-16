@@ -29,7 +29,7 @@ American Airlines tệ nhất vì hành lý có bị bể, bị mất cũng ph�
 1. Sim điện thoại Mỹ có internet.  
   Mình ở Nhật nên đã mua sim trả trước tại Nhật, ngay khi đặt chân xuống sân bay Mỹ thì có mạng điện thoại và dùng được ngay. Trong sân bay luôn luôn có wifi nhưng khi bạn bị kẹt lại thì bạn nên ra khỏi sân bay để thuê riêng để an toàn cho bản thân bạn. Lúc đó mạng điện thoại và 5G rất quan trọng. Lưu ý khu vực gần cửa sân bay có thể không có kết nối 5G tốt, bạn chỉ cần đi ra xa hơn một đoạn sẽ có 5G mạnh hơn nhé.
 2. App Uber/Lyft  
-  Bên Mỹ các khu vực chờ Uber trong sân bay thường ở ngoài sân bay khá xa, hãy đi theo hướng dẫn chữ Uber hoặc Shareride.
+  Bên Mỹ các khu vực chờ Uber trong sân bay thường ở phía ngoài sân bay khá xa, hãy đi theo hướng dẫn chữ Uber hoặc Shareride.
 3. Tiền lẻ 1,2,5$ để tips cho các dịch vụ nếu bạn có ăn ở nhà hàng. Văn hóa tips của Mỹ là từ 10-15% cho tổng hóa đơn. 
 4. Thẻ credit card có thể thanh toán quốc tế, sẽ tiện lợi hơn để thanh toán Uber hay nhà hàng hay tips đều được.
 
@@ -37,7 +37,7 @@ American Airlines tệ nhất vì hành lý có bị bể, bị mất cũng ph�
 
 Đầu tiên chúng ta cần phải giữ bình tĩnh, và hãy tiếp tục đi thẳng đến cửa ra máy bay nhanh nhất có thể. Máy bay sẽ đóng cửa 15p trước khi bay, nhưng nhân viên mặt đất vẫn sẽ trực ở cửa máy bay. Đây là cách nhanh nhất, còn nếu bạn có thời gian và chuyến bay còn sớm, không quá khuya thì bạn có thể tìm quầy hướng dẫn của hãng bay, nhân viên mặt đất sẽ hỗ trợ bạn.
 
-Khi bạn bay hay chuyến với cùng 1 mã đặt chỗ của hãng Delta, mà chuyến bay đầu delay dẫn đến việc bạn không lên được chuyến bay thứ 2 thì bạn sẽ được ở khách sạn và phiếu ăn miễn phí và bạn sẽ được reroute sang chuyến bay khác để đến địa điểm bạn mong muốn.
+Khi bạn bay hai chuyến với cùng 1 mã đặt chỗ của hãng Delta, mà chuyến bay đầu delay dẫn đến việc bạn không lên được chuyến bay thứ 2 thì bạn sẽ được ở khách sạn và phiếu ăn miễn phí và bạn sẽ được reroute sang chuyến bay khác để đến địa điểm bạn mong muốn.
 
 Sau khi xác nhận được thông tin đặt chỗ nhà hàng và phiếu ăn, cách dễ nhất là bạn đi đến khu vực đón xe Uber và đặt một chiếc Uber về khách sạn. Một số sân bay Mỹ có shuttle nhưng hơi khó hơn Uber đối với khách du lịch không rành, do chúng có nhiều loại và khá phức tạp.
 
