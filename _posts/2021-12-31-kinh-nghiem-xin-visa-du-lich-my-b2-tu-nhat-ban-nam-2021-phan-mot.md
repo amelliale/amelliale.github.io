@@ -60,4 +60,4 @@ Và mình sắp xếp sẵn theo thứ tự như sau:
 Sau khi tập hợp đủ và sắp xếp theo thứ tự bạn cho tất cả vào 1 bìa hồ sơ trong suốt, phần ảnh bạn kẹp vào trang đầu tiên luôn nhé. Mình nộp đơn DS-160 trước rồi mới chuẩn bị hồ sơ dần dần nên vừa kịp phỏng vấn, các bạn hãy dự tính trước tài chính khi tới ngày phỏng vấn để đủ khả năng chi trả cho chuyến đi là được nhé.
 
 --------------------------------
-Phần tiếp theo là về việc phỏng vấn, mời các bạn xem tiếp [tại đây](https://amelliale.github.io/2022-01-30-kinh-nghiem-xin-visa-du-lich-my-b2-tu-nhat-ban-nam-2021-phan-2/)
+Phần tiếp theo là về việc phỏng vấn, mời các bạn xem tiếp [tại đây](https://amelliale.github.io/2022-01-30-kinh-nghiem-xin-visa-du-lich-my-b2-tu-nhat-ban-nam-2021-phan-2/).
