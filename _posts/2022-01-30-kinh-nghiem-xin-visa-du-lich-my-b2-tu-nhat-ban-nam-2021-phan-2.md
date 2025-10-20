@@ -6,7 +6,7 @@ tags: [visa my]
 comments: true
 ---
 
-<h2 align="center"> Mình phỏng vấn xin visa B2 du lịch từ Tokyo và kết quả đậu vào ngày 6/12/2021 </h2>
+<h2 align="center"> Mình phỏng vấn xin visa B2 du lịch từ Tokyo và kết quả đậu vào ngày 6/12/2021, còn F2 mình đậu năm 2024 </h2>
 
 Thời điểm nộp hồ sơ và chuẩn bị phỏng vấn là mình 28 tuổi, đang là du học sinh, đến Nhật từ 2019 và sẽ tốt nghiệp vào tháng 3/2023. Mục đích chuyến đi là thăm người yêu và chơi Christmas cùng người yêu bên Mỹ. Người yêu mình là du học sinh Mỹ từ năm 2011 đến nay, hiện đang là nghiên cứu sinh bậc tiến sĩ. Chuyến đi này người yêu mình chi trả.
 
