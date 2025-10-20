@@ -37,6 +37,6 @@ Mình gia hạn visa một lần không phỏng vấn năm 2023 và chuyển san
 2. Chồng mình làm gì?
 3. Visa F1 của chồng mình đâu? (Vì chồng mình xin lại visa F1 từ Việt Nam còn mình thì xin visa F2 tại Nhật, nên là copy visa F1 là vật rất quan trọng. Mình thiếu thế là viên lãnh sự mỉm cười bảo mình về gửi lại được không và đưa cho mình giấy 221g và họ giữ passport. Mình về bổ sung ngay qua mail cho viên chức lãnh sự visa F1 của chồng mình, vậy là mình được approve ngay)
 
-Mình thấy visa phụ thuộc xin còn dễ hơn visa du lịch 
+Mình thấy visa phụ thuộc xin còn dễ hơn visa du lịch nữa. Và visa F2 của mình hạn cùng với visa F1 của chồng mình. Mình sang Mỹ và cùng chồng xin visa tài năng O1. Mình sẽ chia sẻ qua một bài khác vì visa này khá hiếm, mình tìm thấy không nhiều bạn chia sẻ.
 
 
