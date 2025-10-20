@@ -29,3 +29,14 @@ Trường hợp như mình mà xin ở Việt Nam có lẽ là khó. Nhưng xin 
 #### Chia sẻ thêm năm 2022 
 
 Mình có giúp đỡ và tham khảo thêm một số trường hợp đậu hoặc rớt sau này. Mình thấy các bạn hãy chú ý điền DS160 thật kỹ nhất là phần việc làm, dù đi học cũng vẫn nên khai công việc làm thêm. Mình đi làm ở Việt Nam năm 2019, lúc phỏng vấn xin là 2021 nhưng mình vẫn trả lời cụ thể trong DS160 công việc mình đã làm và có nói thêm một câu về việc mình đang làm thêm ở Nhật. Kèm hợp đồng làm việc mình tự dịch sang tiếng Anh. Dù họ hoàn toàn không xem trong phỏng vấn nhưng có lẽ nó là một yếu tố giúp hồ sơ của chúng ta đáng tin cậy hơn. 
+
+#### Chia sẻ thêm năm 2024
+
+Mình gia hạn visa một lần không phỏng vấn năm 2023 và chuyển sang visa F2 tại Nhật. Phỏng vấn Visa F2 mình thấy dễ vô cùng, dù có bạn mình hỏi kinh nghiệm thì bảo tỉ lệ đậu không cao. Mình nhớ buổi phỏng vấn CO hỏi mình những câu sau:
+1. Chồng mình học ngành gì?
+2. Chồng mình làm gì?
+3. Visa F1 của chồng mình đâu? (Vì chồng mình xin lại visa F1 từ Việt Nam còn mình thì xin visa F2 tại Nhật, nên là copy visa F1 là vật rất quan trọng. Mình thiếu thế là viên lãnh sự mỉm cười bảo mình về gửi lại được không và đưa cho mình giấy 221g và họ giữ passport. Mình về bổ sung ngay qua mail cho viên chức lãnh sự visa F1 của chồng mình, vậy là mình được approve ngay)
+
+Mình thấy visa phụ thuộc xin còn dễ hơn visa du lịch 
+
+
