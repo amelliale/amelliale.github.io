@@ -3,7 +3,7 @@ title: About me
 subtitle: Thuy is in Tokyo
 ---
 
-Mình là Thủy, mình hiện đang sinh sống tại Tokyo, Nhật Bản. Mình tốt nghiệp đại học ngành tâm lý học tại Việt Nam và chuyển ngành khi sang Nhật năm 2019. Năm 2020, mình bắt đầu đầu tư chứng khoán tại thị trường Việt Nam và Mỹ. 
+[Edit 2025] Mình là Thủy, mình hiện đang sinh sống tại California, Mỹ. <s>sinh sống tại Tokyo, Nhật Bản</s>. Mình tốt nghiệp đại học ngành tâm lý học tại Việt Nam và chuyển ngành khi sang Nhật năm 2019. Năm 2020, mình bắt đầu đầu tư chứng khoán tại thị trường Việt Nam và Mỹ. Từ năm 2024, mình rời Nhật đến Mỹ cùng chồng và sống cùng chồng đến giờ tại Mỹ.
 
 ### About this blog
 
