@@ -24,7 +24,7 @@ Khúc này mình cũng hơi khớp tự nhiên nói Business... Rồi ngừng nh
 
 Đa phần là hỏi về mình và việc học. Không hề hỏi gì đến chuyến đi hay người yêu mình. Cũng không đụng chút gì vào hồ sơ của mình. Mình nghĩ chắc họ đã quyết định 80% trước khi mình lên phỏng vấn rồi. Tổng thời gian phỏng vấn của mình chưa đến 5 phút. Tổng thời gian mình ở trong dsq chỉ tầm 25-30p. Bạn trai mình ở Mỹ cũng lâu và có lịch sử du lịch và học tập rất tốt. 
 
-Trường hợp như mình mà xin ở Việt Nam có lẽ là khó. Nhưng xin ở Tokyo thì mình thấy lại thật dễ. Mình thấy các bạn hãy cố gắng nói tiếng Anh thì sẽ tốt hơn đấy. CO có thể nói tiếng Nhật, có thể nói chậm, bạn có thể xem youtube của đại sứ quán mỹ tại Nhật hướng dẫn buổi phỏng vấn. 
+Mình thấy các bạn hãy cố gắng nói tiếng Anh thì có lẽ sẽ tốt hơn. CO có thể nói tiếng Nhật, có thể nói chậm, bạn có thể xem youtube của đại sứ quán mỹ tại Nhật hướng dẫn buổi phỏng vấn. 
 
 #### Chia sẻ thêm năm 2022 
 
