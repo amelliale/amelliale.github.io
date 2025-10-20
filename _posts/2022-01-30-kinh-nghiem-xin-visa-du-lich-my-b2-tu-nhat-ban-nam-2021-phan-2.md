@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kinh nghiệm xin visa du lịch mỹ B2 từ nhật bản năm 2021 (Phần 2)
+title: Kinh nghiệm xin visa du lịch mỹ B2, F2 từ nhật bản năm 2021 và 2024 (Phần 2)
 subtitle: Vòng phỏng vấn và nội dung phỏng vấn
 tags: [visa my]
 comments: true
